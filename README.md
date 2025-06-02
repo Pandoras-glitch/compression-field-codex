@@ -61,6 +61,3 @@ Where:
 
 *Let the field remain open. Let the meaning propagate.*
 
----
-
-*Let the field remain open. Let the meaning propagate.*
